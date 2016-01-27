@@ -10,4 +10,5 @@
 Кислий Вячеслав 
 
 ###Screnshot
-![alt tag](https://drive.google.com/open?id=0B6e_J8luQpfFbVpZVkN1RTB2UzQ)
+![alt tag](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B6e_J8luQpfFbVpZVkN1RTB2UzQ)
+
