@@ -10,4 +10,4 @@
 Кислий Вячеслав 
 
 ###Screnshot
-![alt tag](https://doc-14-0o-docs.googleusercontent.com/docs/securesc/6tv66kid81ltlua1hvh857liaqule6c0/jlp42bdv1bkag8ob7nod4s1c67iqget0/1453910400000/17082360033785106707/17082360033785106707/0B6e_J8luQpfFbVpZVkN1RTB2UzQ?e=download&nonce=srundqh7kftq4&user=17082360033785106707&hash=akv1m1n33rdq1p2eq7qg5skqm22k6lps)
+![alt tag](https://drive.google.com/open?id=0B6e_J8luQpfFbVpZVkN1RTB2UzQ)
