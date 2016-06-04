@@ -1,9 +1,6 @@
 # PhinAndFerb
 ###Description
-####Простий сайт-рекламка відомого мультсеріалу
-
-Веб-сторінка створена для тестування бібліотеки FIX.js, яка служить для обробки даних з фіксованим позиціюванням та обробки скролінгу. 
-Написана на "чистому" JavaScript без використання яких небуть бібліотек в тренувальних цілях.
+####Example of web-page, that use FIX.js - my animation library for animation elements with fixed position.
 
 ###Autors
 
